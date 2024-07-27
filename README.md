@@ -1,4 +1,5 @@
 Resume Screening Automation:
+
 This repository contains a Python script for automating the resume screening process. The script extracts text from PDF and DOCX resumes, processes the information to extract key details, and calculates a skill score based on predefined skills and their weights. The results are then stored in a CSV file for further analysis.
 
 Features:
