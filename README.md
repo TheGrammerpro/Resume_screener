@@ -34,10 +34,7 @@ predefined_skills = ['Python', 'Java', 'Machine Learning', 'Data Analysis', 'SQL
 
 **Example**
 Here is an example of how the processed information will be stored in the CSV file:
-
-Name	Email	Phone Number	County & City	Companies Worked At	Experience (Years)	Degrees	Skills	Skill Score %
-JANE KNIGHTLEY	jane.knightley@email.com	(123) 456-7890	USA, Seattle	['Yelp: IT Technician Intern (2020-current)', 'Washington State University Help Desk: Support Technician (2019-2020)']	7	['Bachelor of Science in Computer Science at Washington State University']	['SQL', 'Network Infrastructure', 'Customer Service', 'Conflict Resolution', 'Python', 'Interpersonal Communication']	41.67
-Coleman Guthrie	cole.guthrie@email.com	(123) 456-7890	USA, San Francisco, CA	['Genovice: tech field (2019-current)', 'Federal Reserve Bank of Boston: tech field (2014-2019)', 'NetApp: tech field (2010-2014)']	13	['Bachelor of Science in Computer Engineering at University of California, San Diego']	['Server Maintenance', 'SQL', 'APIs', 'CRM', 'Microsoft 365', 'Programming', 'C++', 'Java', 'Python', 'Project Management']	70.83
+https://docs.google.com/spreadsheets/d/1mS2Q1yoWYZupUBxwA7U5IqGL5ICC9cS8LMeyqK5VXA4/edit?gid=1888605289#gid=1888605289
 
 **Acknowledgements**
 PDFMiner
