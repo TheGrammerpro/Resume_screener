@@ -19,6 +19,7 @@ Clone the repository:
 *pip install -r requirements.txt
 
 **Usage:**
+Add your open AI API to a environment variable under the name "OPENAI_API_KEY"
 Place the resumes to be processed in the resumes directory.
 
 **Run the script:**
