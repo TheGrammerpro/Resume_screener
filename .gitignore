@@ -1,0 +1,8 @@
+.env
+nlp_version.py
+Resume Database.csv
+test.py
+.venv/*
+resumes/*
+.xml*
+.iml*
